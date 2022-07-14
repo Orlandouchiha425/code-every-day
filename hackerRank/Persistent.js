@@ -17,3 +17,14 @@ function persistence(num) {
   
   console.log(
     persistence(999));
+
+    // function persistencenum(num) {
+//   number = num.toString().split('')
+//    for(let i=0; i<number.length;i++){
+//       number[i] * number[i]
+// //    }
+// if (number===0) {
+//     return true
+// }
+// }
+// console.log(persistencenum(39))
