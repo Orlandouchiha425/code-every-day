@@ -33,10 +33,17 @@
 
 // The result of the described algorithm.
 
-function solution(s) {
-    return s
-    }
+// function solution(s) {
+//     return s
+//     }
     
-    console.log(solution('aaacodedoc'))
+//     console.log(solution('aaacodedoc'))
     
-    
+function solution(A, K) {
+    let newArray =[]
+for(let i=0; i<A.length; i++){
+    console.log("i am A" +A[i])
+}
+
+}
+console.log(solution([1,4,5]))
