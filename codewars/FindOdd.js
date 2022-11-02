@@ -19,13 +19,6 @@ for(let number in index) {
     }
 }
 return index
-// for(let number of index) {
-//     if(index[number] % 2 ==1 && index[number] ===1){
-//  return index[number]
-//     }else{
-//         console.log('there are no odd numbers')
-//     }
-// }
 
   }
 
